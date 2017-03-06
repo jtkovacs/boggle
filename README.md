@@ -11,6 +11,6 @@ Required Python libraries:
 - os
 - time
 - collections
-- nltk
+- nltk and then [install words corpora](http://www.nltk.org/data.html)
 - urllib.request
 - json
