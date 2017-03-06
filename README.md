@@ -1,5 +1,4 @@
-# boggle
-Script for playing Boggle in a shell:
+# Boggle
 
 - boggle.ipynb is commented code
 - boggle.py is the script
