@@ -12,6 +12,8 @@ Required Python libraries:
 - urllib.request
 - json
 
-![](illos/game-parameters.png)
-![](illos/game-turn.png)
-![](illos/game-score.png)
+![Defining game parameters](illos/game-parameters.png)
+
+![Playing a turn](illos/game-turn.png)
+
+![Displaying final scores](illos/game-score.png)
