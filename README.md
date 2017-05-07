@@ -1,7 +1,5 @@
 # Boggle
 
-## Instructions
-
 **BOGGLE.ipynb** is commented code; **BOGGLE.py** is the script. Run `python BOGGLE.py` in your shell to play.
 
 Required Python libraries:
