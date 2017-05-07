@@ -12,6 +12,6 @@ Required Python libraries:
 - urllib.request
 - json
 
-![](game-parameters.png)
-![](game-turn.png)
-![](game-score.png)
+![](illos/game-parameters.png)
+![](illos/game-turn.png)
+![](illos/game-score.png)
